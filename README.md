@@ -62,3 +62,5 @@ wireless adb without usb
 	- If all goes well, the command line will output a message saying you’re now connected to the specified IP address.
 	- Now that you’re connected to your Android device using ADB,
 	  you can issue any of the ADB commands you know and those will be executed on your Android phone.
+	  
+NB: u must at first use the basic method (for initialitation) before u can use the fully wireless method (with emulator)
